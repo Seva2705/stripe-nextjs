@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
 
       <div className={styles.center}>
-          Buy My Pictures
+          Buy My physical NFTs
       </div>
 
       <div className={styles.grid}>
@@ -16,8 +16,8 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image src='/images/4.png' alt='stitch' width={300} height={300} />
-          <p>Very expensive picture 1</p>
+          <Image src='/images/1.png' alt='stitch' width={400} height={}
+          <p>Find in-depth information about Next.js features and API.</p>
         </a>
         <a
           href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
@@ -25,8 +25,10 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-           <Image src='/images/2.png' alt='stitch' width={300} height={300} />
-          <p>Very expensive picture 2</p>
+          <h2>
+            Docs <span>-&gt;</span>
+          </h2>
+          <p>Find in-depth information about Next.js features and API.</p>
         </a>
 
 

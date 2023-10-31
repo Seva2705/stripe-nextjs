@@ -54,7 +54,6 @@
   transition: background 200ms, border 200ms;
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 
 .card span {
@@ -73,7 +72,6 @@
   font-size: 0.9rem;
   line-height: 1.5;
   max-width: 30ch;
-  margin-top: 15px;
 }
 
 .center {

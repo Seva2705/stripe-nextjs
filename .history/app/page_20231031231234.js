@@ -26,7 +26,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
            <Image src='/images/2.png' alt='stitch' width={300} height={300} />
-          <p>Very expensive picture 2</p>
+          <p>Very expensive cartoon 1</p>
         </a>
 
 
